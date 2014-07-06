@@ -1,0 +1,66 @@
+/* CONTACT US BUTTON */
+.btn-success {
+  color: #fff;
+  background-color: #0000ff;
+  border-color: #0000c1;
+}
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-success.active,
+.open .dropdown-toggle.btn-success {
+  color: #fff;
+  background-color: #2323ff;
+  border-color: #1919be;
+}
+.btn-success:active,
+.btn-success.active,
+.open .dropdown-toggle.btn-success {
+  background-image: none;
+}
+.btn-success.disabled,
+.btn-success[disabled],
+fieldset[disabled] .btn-success,
+.btn-success.disabled:hover,
+.btn-success[disabled]:hover,
+fieldset[disabled] .btn-success:hover,
+.btn-success.disabled:focus,
+.btn-success[disabled]:focus,
+fieldset[disabled] .btn-success:focus,
+.btn-success.disabled:active,
+.btn-success[disabled]:active,
+fieldset[disabled] .btn-success:active,
+.btn-success.disabled.active,
+.btn-success[disabled].active,
+fieldset[disabled] .btn-success.active {
+  background-color: #5cb85c;
+  border-color: #4cae4c;
+}
+.btn-success .badge {
+  color: #0000ff;
+  background-color: #fff;
+}
+/* CONTACT US BUTTON END */
+
+.highlight-text {
+    font-size: 30px;
+}
+
+a.highlight-text {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+
+a.highlight-text:hover {
+    color: #0000ff;
+    text-decoration: none;
+    outline: 0;
+}
+
+a:hover,
+a:focus {
+    color: #0000ff;
+    text-decoration: none;
+    outline: 0;
+}
